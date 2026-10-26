@@ -1,0 +1,27 @@
+DDL for creating table:
+CREATE TABLE public.table_m3 (
+    "Customer ID" INTEGER,
+    "Age" INTEGER,
+    "Gender" TEXT,
+    "Item Purchased" TEXT,
+    "Category" TEXT,
+    "Purchase Amount (USD)" INTEGER,
+    "Location" TEXT,
+    "Size" TEXT,
+    "Color" TEXT,
+    "Season" TEXT,
+    "Review Rating" DOUBLE PRECISION,
+    "Subscription Status" TEXT,
+    "Shipping Type" TEXT,
+    "Discount Applied" TEXT,
+    "Promo Code Used" TEXT,
+    "Previous Purchases" INTEGER,
+    "Payment Method" TEXT,
+    "Frequency of Purchases" TEXT
+);
+
+Database : milestone3
+Table : table_m3
+Data was imported using Import/Export 
+Data Format : CSV
+File: P2M3_Amanda_Amalia_data_raw.csv

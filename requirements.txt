@@ -1,0 +1,7 @@
+pandas
+numpy
+apache-airflow
+great-expectations
+sqlalchemy
+psycopg2-binary
+elasticsearch
