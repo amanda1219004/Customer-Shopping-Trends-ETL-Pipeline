@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Airflow
+logs/
+airflow.db
+airflow.cfg
+
+# PostgreSQL local database
+postgres_project_m3/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
